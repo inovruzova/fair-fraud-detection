@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/ilham/OneDrive - ADA University/Desktop/Machine Learning/Team
+  Project_ML/Codes/fair-fraud-detection/mlruns/873651872725960444/606c96588a0a407f922df204a6f8ed1a/artifacts
+end_time: 1734423706192
+entry_point_name: ''
+experiment_id: '873651872725960444'
+lifecycle_stage: active
+run_id: 606c96588a0a407f922df204a6f8ed1a
+run_name: Reweighing_LightGBM_sex_M
+run_uuid: 606c96588a0a407f922df204a6f8ed1a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734423706117
+status: 3
+tags: []
+user_id: Ilhama

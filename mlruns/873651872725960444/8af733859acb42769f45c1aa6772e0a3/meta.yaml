@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/ilham/OneDrive - ADA University/Desktop/Machine Learning/Team
+  Project_ML/Codes/fair-fraud-detection/mlruns/873651872725960444/8af733859acb42769f45c1aa6772e0a3/artifacts
+end_time: 1734423269091
+entry_point_name: ''
+experiment_id: '873651872725960444'
+lifecycle_stage: active
+run_id: 8af733859acb42769f45c1aa6772e0a3
+run_name: unique-fawn-799
+run_uuid: 8af733859acb42769f45c1aa6772e0a3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734423268995
+status: 3
+tags: []
+user_id: Ilhama

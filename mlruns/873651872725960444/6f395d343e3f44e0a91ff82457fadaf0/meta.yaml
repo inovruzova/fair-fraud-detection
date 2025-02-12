@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/ilham/OneDrive - ADA University/Desktop/Machine Learning/Team
+  Project_ML/Codes/fair-fraud-detection/mlruns/873651872725960444/6f395d343e3f44e0a91ff82457fadaf0/artifacts
+end_time: 1734423263275
+entry_point_name: ''
+experiment_id: '873651872725960444'
+lifecycle_stage: active
+run_id: 6f395d343e3f44e0a91ff82457fadaf0
+run_name: Reweighing_GradientBoosting_sex_M
+run_uuid: 6f395d343e3f44e0a91ff82457fadaf0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734423263215
+status: 3
+tags: []
+user_id: Ilhama

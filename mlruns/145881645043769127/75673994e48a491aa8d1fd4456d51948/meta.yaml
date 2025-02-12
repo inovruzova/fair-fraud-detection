@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ilham/OneDrive%20-%20ADA%20University/Desktop/Machine%20Learning/Team%20Project_ML/Codes/fair-fraud-detection/mlruns/145881645043769127/75673994e48a491aa8d1fd4456d51948/artifacts
+end_time: 1734421222268
+entry_point_name: ''
+experiment_id: '145881645043769127'
+lifecycle_stage: active
+run_id: 75673994e48a491aa8d1fd4456d51948
+run_name: Fairness_Mitigation_Pipeline
+run_uuid: 75673994e48a491aa8d1fd4456d51948
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734421153303
+status: 4
+tags: []
+user_id: Ilhama

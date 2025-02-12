@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/ilham/OneDrive - ADA University/Desktop/Machine Learning/Team
+  Project_ML/Codes/fair-fraud-detection/mlruns/873651872725960444/c42ad7f4296f48dcbd2888ee82c93b37/artifacts
+end_time: 1734427201470
+entry_point_name: ''
+experiment_id: '873651872725960444'
+lifecycle_stage: active
+run_id: c42ad7f4296f48dcbd2888ee82c93b37
+run_name: CalibratedEqualizedOdds_XGBoost_sex_M
+run_uuid: c42ad7f4296f48dcbd2888ee82c93b37
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734427201395
+status: 3
+tags: []
+user_id: Ilhama

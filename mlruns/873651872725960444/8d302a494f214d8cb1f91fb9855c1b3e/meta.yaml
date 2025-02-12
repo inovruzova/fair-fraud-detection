@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/ilham/OneDrive - ADA University/Desktop/Machine Learning/Team
+  Project_ML/Codes/fair-fraud-detection/mlruns/873651872725960444/8d302a494f214d8cb1f91fb9855c1b3e/artifacts
+end_time: 1734423095940
+entry_point_name: ''
+experiment_id: '873651872725960444'
+lifecycle_stage: active
+run_id: 8d302a494f214d8cb1f91fb9855c1b3e
+run_name: Baseline_GradientBoosting_age_group
+run_uuid: 8d302a494f214d8cb1f91fb9855c1b3e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734423095884
+status: 3
+tags: []
+user_id: Ilhama

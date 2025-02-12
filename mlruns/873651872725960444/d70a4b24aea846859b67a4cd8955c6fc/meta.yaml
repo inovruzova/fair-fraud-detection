@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/ilham/OneDrive - ADA University/Desktop/Machine Learning/Team
+  Project_ML/Codes/fair-fraud-detection/mlruns/873651872725960444/d70a4b24aea846859b67a4cd8955c6fc/artifacts
+end_time: 1734423256431
+entry_point_name: ''
+experiment_id: '873651872725960444'
+lifecycle_stage: active
+run_id: d70a4b24aea846859b67a4cd8955c6fc
+run_name: Baseline_LightGBM_sex_M
+run_uuid: d70a4b24aea846859b67a4cd8955c6fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734423256375
+status: 3
+tags: []
+user_id: Ilhama

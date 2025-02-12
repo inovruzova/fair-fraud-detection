@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/ilham/OneDrive - ADA University/Desktop/Machine Learning/Team
+  Project_ML/Codes/fair-fraud-detection/mlruns/873651872725960444/a3c7295fd34c469888d82d79d4c93816/artifacts
+end_time: 1734425777857
+entry_point_name: ''
+experiment_id: '873651872725960444'
+lifecycle_stage: active
+run_id: a3c7295fd34c469888d82d79d4c93816
+run_name: EGR_XGBoost_sex_M
+run_uuid: a3c7295fd34c469888d82d79d4c93816
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734425777797
+status: 3
+tags: []
+user_id: Ilhama

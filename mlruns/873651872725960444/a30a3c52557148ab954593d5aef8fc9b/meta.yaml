@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/ilham/OneDrive - ADA University/Desktop/Machine Learning/Team
+  Project_ML/Codes/fair-fraud-detection/mlruns/873651872725960444/a30a3c52557148ab954593d5aef8fc9b/artifacts
+end_time: 1734423302042
+entry_point_name: ''
+experiment_id: '873651872725960444'
+lifecycle_stage: active
+run_id: a30a3c52557148ab954593d5aef8fc9b
+run_name: melodic-shrew-426
+run_uuid: a30a3c52557148ab954593d5aef8fc9b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734423301960
+status: 3
+tags: []
+user_id: Ilhama
